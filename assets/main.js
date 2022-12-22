@@ -1,4 +1,4 @@
-const API = 'https://youtube-v31.p.rapidapi.com/playlistItems?playlistId=PLGffrC-JgwEnCKfP9en0RfCxImKKXS6CF&part=snippet&maxResults=50';
+const API = 'https://youtube-v31.p.rapidapi.com/playlistItems?playlistId=PLGffrC-JgwEnVs40c5YP-A5xEuahRiKrG&part=snippet&maxResults=50';
 
 const content = null || document.getElementById('content');
 
