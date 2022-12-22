@@ -16,7 +16,7 @@
   "bugs": {
     "url": "https://github.com/itsluismario/asyncLanding/issues"
   },
-  "homepage": "https://itsluismario.github.io/asyncLanding/",
+  "homepage": "https://github.com/itsluismario/asyncLanding#readme",
   "devDependencies": {
     "gh-pages": "^4.0.0"
   }
